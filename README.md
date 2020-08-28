@@ -56,7 +56,9 @@
 
 <br />
 <br />
+<h3>
 <details>
-  <summary><h3>:zap: Github Stats</h3></summary>
+  <summary>:zap: Github Stats</summary>
   <img align="left" alt="geekysrm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geekysrm&show_icons=true&hide_border=true" />
 </details>
+</h3>
