@@ -1,4 +1,4 @@
-### नमस्ते (Namaste) 🙏, I'm [Soumya](https://soumya.dev) - aka geekysrm from <img  alt="India" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png" />.
+### नमस्ते (Namaste) 🙏, I'm [Soumya](https://soumya.dev) - aka geekysrm from <img  alt="India" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png" /> .
 
 [![Website](https://img.shields.io/website?label=soumya.dev&style=for-the-badge&url=https%3A%2F%2Fsoumya.dev)](https://soumya.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
