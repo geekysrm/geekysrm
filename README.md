@@ -10,8 +10,6 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love music & participating in hackathons.
 
-<br />
-
 ### Connect with me:
 <a href="https://soumya.dev">
   <img align="left" alt="geekysrm's website" width="30px" src="https://image.flaticon.com/icons/svg/841/841364.svg" />
@@ -24,7 +22,7 @@
 </a>
 <a href="https://link.soumya.dev/youtube">
   <img align="left" alt="geekysrm's YouTube Channel" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
-</a>
+</a> <br /> 
  <br /> 
 
 ### Latest articles ✏️ <br />
@@ -36,8 +34,8 @@
 
 **Like my work?** <br />
 
-<a href='https://coffee.soumya.dev/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+<a href='https://coffee.soumya.dev/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <br /> 
+ 
 ### Languages and Tools:
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
