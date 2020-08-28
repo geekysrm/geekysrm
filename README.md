@@ -31,3 +31,9 @@ Like my open-source stuff? [Buy me a coffeee](https://coffee.soumya.dev/) to sup
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="https://www.graphql.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
 
+<br />
+<br />
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="geekysrm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geekysrm&show_icons=true&hide_border=true" />
+</details>
