@@ -1,7 +1,7 @@
 ### Hi there, I'm [Soumya](https://soumya.dev) - aka geekysrm 👋
 
 [![Website](https://img.shields.io/website?label=soumya.dev&style=for-the-badge&url=https%3A%2F%2Fsoumya.dev)](https://soumya.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=geekysrm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
 
 - 🔭 I’m currently working on rebuilding my personal website.
 - 🌱 I’m currently learning Next.js, Gatsby, GraphQL.
@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love music & participating in hackathons.
 
-Like my open-source stuff? [Buy me a coffeee](https://coffee.soumya.dev/) to support me 🙏.
+Like my open-source stuff? <a href="https://coffee.soumya.dev/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> to support me 🙏.
 
 ### Languages and Tools:
 
