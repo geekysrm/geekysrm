@@ -1,14 +1,18 @@
-### Hi there, I'm [Soumya](https://soumya.dev) - aka geekysrm 👋
+### नमस्ते (Namaste), I'm [Soumya](https://soumya.dev) - aka geekysrm 👋 from <img  alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png" />
 
 [![Website](https://img.shields.io/website?label=soumya.dev&style=for-the-badge&url=https%3A%2F%2Fsoumya.dev)](https://soumya.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
 
-- 🔭 I’m currently working on rebuilding my personal website.
+- 🔭 I’m currently working on rebuilding [my personal website](https://soumya.dev/blog).
 - 🌱 I’m currently learning Next.js, Gatsby, GraphQL.
 - 💬 Ask me about React, Node.js, GraphQL.
 - 📫 How to reach me: [@geekysrm](https://twitter.com/geekysrm) on Twitter.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love music & participating in hackathons.
+
+### Connect with me:
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+
 
 **Like my open-source stuff?** <br />
 
