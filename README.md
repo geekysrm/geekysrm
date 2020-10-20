@@ -29,6 +29,7 @@
  <br /> 
 
 ### Latest articles ✏️ <br />
+- [What is Tailwind CSS and why you should use it](https://soumya.dev/what-is-tailwind-css)
 - [Why I switched to Firefox from Chrome as a web developer](https://soumya.dev/switch-to-firefox-from-chrome) (WIP)
 - [Use TailwindCSS with Gatsby (with Emotion or styled-components)](https://soumya.dev/tailwindcss-gatsby-styled-emotion)
 - [HPDF Journey: Completing Twitter Clone](https://soumya.dev/hpdf-journey-twitter-clone)
