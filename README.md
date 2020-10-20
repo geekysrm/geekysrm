@@ -22,6 +22,9 @@
 </a>
 <a href="https://link.soumya.dev/youtube">
   <img align="left" alt="geekysrm's YouTube Channel" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
+</a>
+<a href="https://www.twitch.tv/geekysrm">
+  <img align="left" alt="geekysrm's Twitch Channel" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733577.svg" />
 </a> <br /> 
  <br /> 
 
