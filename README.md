@@ -30,15 +30,13 @@
 
 ### Latest articles ✏️ <br />
 - [What is Tailwind CSS and why you should use it](https://soumya.dev/what-is-tailwind-css)
-- [Why I switched to Firefox from Chrome as a web developer](https://soumya.dev/switch-to-firefox-from-chrome) (WIP)
 - [Use TailwindCSS with Gatsby (with Emotion or styled-components)](https://soumya.dev/tailwindcss-gatsby-styled-emotion)
 - [HPDF Journey: Completing Twitter Clone](https://soumya.dev/hpdf-journey-twitter-clone)
-
-
+- [Why I switched to Firefox from Chrome as a web developer](https://soumya.dev/switch-to-firefox-from-chrome) (WIP)
 
 ### Like my work?
 
-<a href='https://coffee.soumya.dev/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <br /> 
+<a href='https://coffee.soumya.dev/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/default-orange.png' border='0' alt='Buy Me a Coffee' /></a> <br /> 
  
 ### Languages and Tools:
 
