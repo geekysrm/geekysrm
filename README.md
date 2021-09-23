@@ -24,7 +24,7 @@
   <img align="left" alt="geekysrm's YouTube Channel" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
 </a>
 <a href="https://www.twitch.tv/geekysrm">
-  <img align="left" alt="geekysrm's Twitch Channel" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733577.svg" />
+  <img align="left" alt="geekysrm's Twitch Channel" width="30px" src="https://image.flaticon.com/icons/svg/733/733577.svg" />
 </a> <br /> 
  <br /> 
 
@@ -61,6 +61,6 @@
 <h3>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="geekysrm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geekysrm&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="geekysrm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geekysrm&count_private=true&show_icons=true&hide_border=true" />
 </details>
 </h3>
