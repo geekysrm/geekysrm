@@ -1,9 +1,9 @@
-### नमस्ते (Namaste) 🙏, I'm [Soumya](https://soumya.dev) - aka geekysrm from <img  alt="India" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png" /> .
+### नमस्ते (Namaste) 🙏, I'm [Soumya](https://soumya.dev) - aka geekysrm from <img  alt="India" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637359363/383px-Flag_of_India.svg.png" /> .
 
 [![Website](https://img.shields.io/website?label=soumya.dev&style=for-the-badge&url=https%3A%2F%2Fsoumya.dev)](https://soumya.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
 
-- 🔭 I’m currently working on rebuilding [my personal website](https://soumya.dev/blog).
+- 🔭 I’m currently working on rebuilding [my personal website](https://soumya.dev).
 - 🌱 I’m currently learning Next.js, Gatsby, GraphQL.
 - 💬 Ask me about React, Node.js, GraphQL.
 - 📫 How to reach me: DM [@geekysrm](https://twitter.com/geekysrm) on Twitter or Email me.
@@ -29,6 +29,8 @@
  <br /> 
 
 ### Latest articles ✏️ <br />
+- [Introducing Hashnode to Twitter](https://geekysrm.hashnode.dev/introducing-hashnode-to-twitter)
+- [Discord Slash Bot With HarperDB Custom Functions](https://soumya.dev/discord-slash-bot-with-harperdb-custom-functions)
 - [What is Tailwind CSS and why you should use it](https://soumya.dev/what-is-tailwind-css)
 - [Use TailwindCSS with Gatsby (with Emotion or styled-components)](https://soumya.dev/tailwindcss-gatsby-styled-emotion)
 - [HPDF Journey: Completing Twitter Clone](https://soumya.dev/hpdf-journey-twitter-clone)
