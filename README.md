@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
 
 - 🔭 I’m currently working on rebuilding [my personal website](https://soumya.dev).
-- 🌱 I’m currently learning Next.js, Gatsby, GraphQL.
-- 💬 Ask me about React, Node.js, GraphQL.
+- 🌱 I’m currently learning Next.js.
+- 💬 Ask me about React, Node.js, Next.js, GraphQL.
 - 📫 How to reach me: DM [@geekysrm](https://twitter.com/geekysrm) on Twitter or Email me.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love music & participating in hackathons.
