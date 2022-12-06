@@ -2,9 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=soumya.dev&style=for-the-badge&url=https%3A%2F%2Fsoumya.dev)](https://soumya.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekysrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekysrm&screen_name=geekysrm)
+[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCqKrGtVLNmnp4V6LpbqXKqQ?label=SUBSCRIBE%20on%20Youtube&style=for-the-badge)](https://link.soumya.dev/youtube)
 
-- 🔭 I’m currently working on rebuilding [my personal website](https://soumya.dev).
-- 🌱 I’m currently learning Next.js.
+
+- 🔭 I’m currently working on [LeetCode Video Solutions Extension (~7500 users)](https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en) and rebuilding [my personal website](https://soumya.dev).
+- 🌱 I’m currently learning Next.js 13.
 - 💬 Ask me about React, Node.js, Next.js, GraphQL.
 - 📫 How to reach me: DM [@geekysrm](https://twitter.com/geekysrm) on Twitter or Email me.
 - 😄 Pronouns: he/him.
