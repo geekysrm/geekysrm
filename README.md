@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [LeetCode Video Solutions Extension (31000+ users)](https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en) and rebuilding [my personal website](https://soumya.dev).
-- 🌱 I’m currently learning Next.js 13.
+- 🌱 I’m currently learning Next.js 15.
 - 💬 Ask me about React, Node.js, Next.js, GraphQL.
 - 📫 How to reach me: DM [@geekysrm](https://twitter.com/geekysrm) on Twitter or Email me.
 - 😄 Pronouns: he/him.
